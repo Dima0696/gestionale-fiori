@@ -35,7 +35,7 @@ export default function Dashboard() {
         boxShadow: "2px 0 12px #0002"
       }}>
         <div style={{ fontWeight: 700, fontSize: 24, marginBottom: 40, textAlign: "center", letterSpacing: 2 }}>
-          🌿 Gestionale
+          🌿 DIMAFLOR
         </div>
         {menu.map((item, i) => (
           <Link
